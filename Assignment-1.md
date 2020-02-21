@@ -1,14 +1,3 @@
----
-title: "Multiple Linear Regression"
-author: "Theo Botella"
-date: "17 Octobre 2018"
-output:
-  html_document:
-    keep_md: true
-    theme: lumen
-    highlight: tango
----
-
 # CS171 - Winter 2020 - Assignment 1
 ### Instructor: Vagelis Papalexakis
 ### TA: Yorgos Tsitsikas
